@@ -1,5 +1,5 @@
 homepage: "https://github.com/hashbookies"
 documentation: "https://github.com/hashbookies/gtm-utm-referral-cleaner#readme"
 versions:
-  - sha: "REPLACE_WITH_INITIAL_TEMPLATE_COMMIT_SHA"
+  - sha: "1ee67fa0decedd04a6ce4dc744c2677034400f02"
     changeNotes: "Initial release."
