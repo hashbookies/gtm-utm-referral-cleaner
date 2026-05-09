@@ -15,7 +15,7 @@ ___INFO___
   "displayName": "UTM and Referral Cleaner",
   "categories": [
     "ANALYTICS",
-    "UTILITY",
+    "UTILITIES",
     "ATTRIBUTION"
   ],
   "description": "Returns a normalized page path with common tracking parameters removed while preserving meaningful non-tracking query parameters.",
