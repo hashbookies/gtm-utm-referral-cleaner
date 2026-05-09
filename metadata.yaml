@@ -2,5 +2,5 @@ homepage: "https://github.com/hashbookies"
 documentation: "https://github.com/hashbookies/gtm-utm-referral-cleaner#readme"
 
 versions:
-  - sha: "1ee67fa0decedd04a6ce4dc744c2677034400f02"
+  - sha: "99321e6180a42094cca5bd5c0121e251fd2d6276"
     changeNotes: "Initial release."
