@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "type": "MACRO",
-  "id": "cvt_dd_utm_referral_cleaner",
+  "id": "cvt_tk_utm_referral_cleaner",
   "version": 1,
   "displayName": "UTM and Referral Cleaner",
   "categories": [
